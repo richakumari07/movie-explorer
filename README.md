@@ -1,16 +1,77 @@
-# React + Vite
+# 🎬 Movie Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Explorer is a modern and responsive web application built with **React**, **Vite**, and **Bootstrap**. It allows users to explore movies through an intuitive interface, providing a seamless and engaging browsing experience.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎥 Browse and explore movies
+- 🔍 Search movies by title
+- 🖼️ Display movie posters and details
+- 📱 Fully responsive design
+- ⚡ Fast and interactive user experience
+- 🎨 Clean and modern user interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+movie-explorer/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/richakumari07/movie-explorer.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd movie-explorer
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+## 🎯 Learning Outcomes
+
+- Developed a responsive web application using React.
+- Strengthened component-based development skills.
+- Built a modern and interactive user interface.
+- Improved frontend development skills using React, Vite, and Bootstrap.
+- Practiced writing clean, reusable, and maintainable code.
+
+## 👩‍💻 Developed By
+
+**Richa Kumari**
